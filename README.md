@@ -11,5 +11,6 @@ Want to know how it works? Take a look! Even if you are building your own progra
 
 [![IMAGE ALT TEXT](https://github.com/user-attachments/assets/3f1629cb-7caf-4cc5-879d-f979365f596f)](https://www.youtube.com/watch?v=BT-ZGmuWeGU)
 
+To download, click the green "code" button, and select download zip file. Unzip it to anywhere you want, and you can start to use it!
 
-Please give out suggestions or contribute to this repository! 
+Please give out suggestions or contribute to this repository! If this is of some inspiration for you, please star this repository too. Thanks!
