@@ -13,4 +13,4 @@ Want to know how it works? Take a look! Even if you are building your own progra
 
 To download, click the green "code" button, and select download zip file. Unzip it to anywhere you want, and you can start to use it!
 
-Please give out suggestions or contribute to this repository! If this is of some inspiration for you, please star this repository too. Thanks!
+This is my first time biulding a public github repository, so it might be a bit clumsy. Please give out any precious advice or contribute to this repository. And if this is of some help to you, please star this repostiory to support. Thanks!
